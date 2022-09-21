@@ -8,4 +8,4 @@
 - Запустить с помощью `node .`
 
 # Токен для бота можно получить на вкладке *Bot*:
-![token](https://github.com/vikey3428/Vikey Handler/blob/[branch]/image.jpg?raw=true)
+![token](https://github.com/vikey3428/Vikey-Handler/blob/assets/howtoken.png/image.jpg?raw=true)
