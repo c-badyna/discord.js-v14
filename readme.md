@@ -12,4 +12,4 @@
 - Запустить с помощью `node .`
 
 # Токен для бота можно получить на вкладке *Bot*:
-![token](https://github.com/vikey3428/Vikey-Handler/blob/main/assets/howtoken.png?raw=true)
+![token](https://github.com/vikey3428/discord.js-v14/blob/main/assets/howtoken.png?raw=true)
